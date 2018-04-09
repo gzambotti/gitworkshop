@@ -5,3 +5,6 @@ Intro to GIT
 - Four
 - Five
 - Six
+- Seven
+- Eight
+- Nine
